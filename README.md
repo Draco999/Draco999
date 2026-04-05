@@ -64,14 +64,17 @@
 ---
 
 ## 🚧 Projects
-- 🔍 Cybersecurity Tools *(Coming Soon)*  
-- 🤖 AI Chatbot (IBM Watson)  
-- 🛡️ Network Security Analysis  
+- 📡 **[PhishGuard AI Detector](https://aswin.lol/#projects)** – AI-powered real-time phishing URL scanner.
+- 🐍 **[Cyber Snake Game](https://aswin.lol/#games)** – Interactive terminal-themed arcade game.
+- 🤖 **AI CyberAssistant** – Serverless security bot trained on custom technical stack.
 
 ---
 
 ## 🌐 Connect With Me
 <p align="center">
+  <a href="https://aswin.lol">
+    <img src="https://img.shields.io/badge/Website-aswin.lol-00F7FF?style=for-the-badge&logo=googledomains&logoColor=white"/>
+  </a>
   <a href="https://github.com/draco999">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
